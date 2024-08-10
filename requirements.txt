@@ -1,0 +1,6 @@
+scipy
+imutils
+numpy
+opencv-python
+matplotlib
+streamlit
