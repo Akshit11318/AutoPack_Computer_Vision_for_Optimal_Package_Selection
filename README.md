@@ -2,6 +2,13 @@
 
 AutoPack is a computer vision-based tool designed to optimize package selection for various objects by predicting their dimensions and finding the most suitable packaging box. This project leverages Python's OpenCV library and Scipy to accurately determine object dimensions from images and automatically suggest the best-fitting box from a predefined list of available sizes.
 
+## ✨ Authors
+
+- **Akshit** ([@akshit11318](https://github.com/akshit11318))
+- **Ankith** ([@ankith-3328](https://github.com/ankith-3328))
+- **Ayush** ([@ayushadarsh7](https://github.com/ayushadarsh7))
+- **Panshul**
+
 ## 🚀  Key Features
 
 - **Dimension Prediction**: Utilizes computer vision techniques to predict the length, breadth, and height of objects based on top and side-view images.
